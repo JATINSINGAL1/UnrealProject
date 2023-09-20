@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/MyProject1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/unreal/MyProject1/Content/ProjectContent/Maps/DemoLevel.umap",
+				"D:/unreal/MyProject1/Content/ProjectContent/BluePrint/Character1.uasset",
+				"D:/unreal/MyProject1/Content/ProjectContent/BluePrint/CharacterController.uasset",
+				"D:/unreal/MyProject1/Content/ProjectContent/BluePrint/GM_base.uasset"
+			]
+		}
+	]
+}
